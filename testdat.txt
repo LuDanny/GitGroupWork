@@ -1,0 +1,5 @@
+todo 
+1 get up
+2 party
+3 sleep 
+4 repeat
